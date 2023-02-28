@@ -1,2 +1,3 @@
 # Project_CPA_SQL
-A customer and products analysis  using SQL 
+
+The database analysis was carried out using the DB Browser for SQLite to answer three questions about products and costumers.
